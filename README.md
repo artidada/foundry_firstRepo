@@ -1,3 +1,6 @@
+## About
+Hi! I'm a passionate learner in the field of technology. I am currently attending the Cyfrin course "Foundry Fundamental" to deepen my understanding and skills in Blockchain; Smart Contracts and testing. This repository is part of my journey through the course, where I'll be sharing my projects, assignments, and insights. Feel free to explore and provide feedback!
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
